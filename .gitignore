@@ -106,3 +106,4 @@ venv.bak/
 # ignore pipenv env file
 Pipfile
 Pipfile.lock
+data/
